@@ -31,6 +31,8 @@ Criar algoritimo através da programação em Python utilizando machine learning
 
 # Solução Implementada
 
+Abaixo o código referente da solução implementada:
+
 ```python
 import pandas as pd
 
