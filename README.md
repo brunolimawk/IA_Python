@@ -8,7 +8,7 @@ A solução de machine learning apresentada é um modelo de classificação que 
 * [Introdução](#introdução)
 * [Problema](#problema)
 * [Objetivo](#objetivo)
-* [Solução Proposta](#objetivo)
+* [Solução Implementada](#objetivo)
   
  
 # Introdução
