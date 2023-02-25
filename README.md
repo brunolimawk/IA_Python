@@ -35,7 +35,7 @@ Criar algoritimo através da programação em Python utilizando machine learning
 import pandas as pd
 
 #Url contendo os dados que serão utilizamos para criação do modelo
-urlDbGit = "https://raw.githubusercontent.com/brunolimawk/LabsChallenge/main/DataBase.csv"
+urlDbGit = "https://raw.githubusercontent.com/brunolimawk/IA_Python/main/DataBase.csv"
  
 #Busca os dados da tabela no formato CSV e cria um DataFrame
 df = pd.read_csv(urlDbGit, delimiter=";")
